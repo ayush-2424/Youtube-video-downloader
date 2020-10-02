@@ -9,6 +9,9 @@ command are-
   
     pip install pytube
     pip install tkinker
+    
+   # about pytube
+-pytube library makes the video downloading very easy. Create the object of the YouTube module by passing the link as the parameter. Then, get the appropriate extension and resolution of the video. You can set the name of the file as your convenience, in another case original name will be kept. After that, download the file using the download function which has one parameter which is the location where to download the file.
 
 
 
